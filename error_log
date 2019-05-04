@@ -1,0 +1,1422 @@
+[11-Mar-2019 08:58:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[11-Mar-2019 08:58:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tuitiono/public_html/providerdetails.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/providerdetails.php on line 107
+[11-Mar-2019 08:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tuitiono/public_html/tutor_post.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 131
+[11-Mar-2019 08:59:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[11-Mar-2019 10:26:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tuitiono/public_html/providerdetails.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/providerdetails.php on line 107
+[11-Mar-2019 10:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tuitiono/public_html/tutor_post.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 131
+[11-Mar-2019 10:30:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[11-Mar-2019 10:30:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[11-Mar-2019 18:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tuitiono/public_html/providerdetails.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/providerdetails.php on line 107
+[11-Mar-2019 18:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tuitiono/public_html/tutor_post.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 131
+[12-Mar-2019 05:06:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tuitiono/public_html/providerdetails.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/providerdetails.php on line 107
+[12-Mar-2019 05:07:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[12-Mar-2019 06:38:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[12-Mar-2019 06:38:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[12-Mar-2019 06:39:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tuitiono/public_html/providerdetails.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/providerdetails.php on line 107
+[12-Mar-2019 07:07:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[12-Mar-2019 07:31:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tuitiono/public_html/providerdetails.php on line 122
+[12-Mar-2019 07:31:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[12-Mar-2019 07:32:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tuitiono/public_html/dbConfig.php on line 9
+[12-Mar-2019 07:53:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tuitiono/public_html/providerdetails.php on line 122
+[12-Mar-2019 08:05:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tuitiono/public_html/providerdetails.php on line 122
+[12-Mar-2019 08:22:01 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tuitiono/public_html/tutor_post.php:202
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 202
+[12-Mar-2019 08:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function NOW() in /home/tuitiono/public_html/validation.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/validation.php on line 64
+[12-Mar-2019 08:31:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tuitiono/public_html/validation.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/validation.php on line 64
+[12-Mar-2019 13:17:58 UTC] PHP Parse error:  syntax error, unexpected '130' (T_LNUMBER), expecting ',' or ';' in /home/tuitiono/public_html/tutor_post.php on line 63
+[13-Mar-2019 04:48:19 UTC] PHP Warning:  move_uploaded_file(tutor/20180322_172536.jpg): failed to open stream: No such file or directory in /home/tuitiono/public_html/validation.php on line 59
+[13-Mar-2019 04:48:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuzUA2Q' to 'tutor/20180322_172536.jpg' in /home/tuitiono/public_html/validation.php on line 59
+[13-Mar-2019 05:02:30 UTC] PHP Parse error:  syntax error, unexpected '110' (T_LNUMBER), expecting ',' or ';' in /home/tuitiono/public_html/tutor_post.php on line 63
+[13-Mar-2019 05:04:17 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/tuitiono/public_html/tutor_post.php on line 63
+[14-Mar-2019 18:47:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tuitiono/public_html/validation.php on line 160
+[14-Mar-2019 18:54:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storageImage() in /home/tuitiono/public_html/validation.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/validation.php on line 110
+[14-Mar-2019 19:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storageImage() in /home/tuitiono/public_html/validation.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/validation.php on line 110
+[14-Mar-2019 19:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storageImage() in /home/tuitiono/public_html/validation.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/validation.php on line 110
+[14-Mar-2019 20:30:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:328
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(324): storageImage('profile.jpg', '/9j/4AAQSkZJRgA...', NULL)
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 328
+[14-Mar-2019 20:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:328
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(324): storageImage('alamin.jpg', '/9j/4AAQSkZJRgA...', NULL)
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 328
+[14-Mar-2019 20:35:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:328
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(324): storageImage('alamin.jpg', '/9j/4AAQSkZJRgA...', NULL)
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 328
+[14-Mar-2019 20:35:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:328
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(324): storageImage('alamin.jpg', '/9j/4AAQSkZJRgA...', NULL)
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 328
+[14-Mar-2019 20:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:328
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(324): storageImage('alamin.jpg', '/9j/4AAQSkZJRgA...', '1743557172')
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 328
+[14-Mar-2019 20:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:328
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(324): storageImage('alamin.jpg', '/9j/4AAQSkZJRgA...', '1743557172')
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 328
+[14-Mar-2019 20:39:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:328
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(324): storageImage('alamin.jpg', '/9j/4AAQSkZJRgA...', '1743557172')
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 328
+[14-Mar-2019 20:39:53 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/tuitiono/public_html/tutorprofile.php on line 322
+[14-Mar-2019 20:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:328
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(324): storageImage('', '', '1743557172')
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 328
+[14-Mar-2019 20:42:38 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/tuitiono/public_html/tutorprofile.php on line 139
+[14-Mar-2019 20:42:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storageImage() in /home/tuitiono/public_html/tutorprofile.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 141
+[14-Mar-2019 20:43:40 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/tuitiono/public_html/tutorprofile.php on line 139
+[14-Mar-2019 20:43:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storageImage() in /home/tuitiono/public_html/tutorprofile.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 141
+[14-Mar-2019 20:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storageImage() in /home/tuitiono/public_html/tutorprofile.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 141
+[14-Mar-2019 20:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:17
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(13): storageImage('alamin.jpg', '/9j/4AAQSkZJRgA...', '1743557172')
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 17
+[14-Mar-2019 20:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/tutorprofile.php:17
+Stack trace:
+#0 /home/tuitiono/public_html/tutorprofile.php(13): storageImage('alamin.jpg', '/9j/4AAQSkZJRgA...', '1743557172')
+#1 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 17
+[14-Mar-2019 20:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storageImage() in /home/tuitiono/public_html/tutorprofile.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutorprofile.php on line 154
+[20-Mar-2019 14:25:21 UTC] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER), expecting ',' or ')' in /home/tuitiono/public_html/ajaxData.php on line 8
+[20-Mar-2019 14:25:32 UTC] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER), expecting ',' or ')' in /home/tuitiono/public_html/ajaxData.php on line 8
+[20-Mar-2019 14:25:35 UTC] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER), expecting ',' or ')' in /home/tuitiono/public_html/ajaxData.php on line 8
+[20-Mar-2019 14:25:43 UTC] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER), expecting ',' or ')' in /home/tuitiono/public_html/ajaxData.php on line 8
+[20-Mar-2019 16:26:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tuitiono/public_html/providerdetails.php on line 122
+[20-Mar-2019 16:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOException::geuMessage() in /home/tuitiono/public_html/tutor_post.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 135
+[22-Mar-2019 14:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/tutor_post.php:228
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 228
+[22-Mar-2019 14:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/tutor_post.php:232
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 232
+[22-Mar-2019 14:43:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/tutor_post.php:232
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 232
+[22-Mar-2019 14:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/tutor_post.php:241
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/tutor_post.php on line 241
+[22-Mar-2019 15:09:29 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 15:09:29 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 15:09:29 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 15:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/Star_Rating.php:30
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(245): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 30
+[22-Mar-2019 15:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/Star_Rating.php:30
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(245): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 30
+[22-Mar-2019 15:16:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/Star_Rating.php:39
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(245): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 39
+[22-Mar-2019 15:16:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/Star_Rating.php:39
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(245): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 39
+[22-Mar-2019 15:21:28 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 268435464 bytes) in /home/tuitiono/public_html/Star_Rating.php on line 41
+[22-Mar-2019 15:21:40 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 268435464 bytes) in /home/tuitiono/public_html/Star_Rating.php on line 41
+[22-Mar-2019 15:21:44 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 268435464 bytes) in /home/tuitiono/public_html/Star_Rating.php on line 41
+[22-Mar-2019 15:24:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 268435464 bytes) in /home/tuitiono/public_html/Star_Rating.php on line 41
+[22-Mar-2019 15:25:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 268435464 bytes) in /home/tuitiono/public_html/Star_Rating.php on line 41
+[22-Mar-2019 15:27:08 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 268435464 bytes) in /home/tuitiono/public_html/Star_Rating.php on line 41
+[22-Mar-2019 15:32:02 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 268435464 bytes) in /home/tuitiono/public_html/Star_Rating.php on line 40
+[22-Mar-2019 15:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/Star_Rating.php:30
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(251): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 30
+[22-Mar-2019 15:42:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/Rating_config.php:8
+Stack trace:
+#0 /home/tuitiono/public_html/Star_Rating.php(15): include()
+#1 /home/tuitiono/public_html/tutor_post.php(251): include('/home/tuitiono/...')
+#2 {main}
+  thrown in /home/tuitiono/public_html/Rating_config.php on line 8
+[22-Mar-2019 15:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/Rating_config.php:9
+Stack trace:
+#0 /home/tuitiono/public_html/Star_Rating.php(15): include()
+#1 /home/tuitiono/public_html/tutor_post.php(251): include('/home/tuitiono/...')
+#2 {main}
+  thrown in /home/tuitiono/public_html/Rating_config.php on line 9
+[22-Mar-2019 16:04:42 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 16:04:42 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 16:04:42 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 16:04:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/Star_Rating.php:30
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(242): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 30
+[22-Mar-2019 16:05:08 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 16:05:08 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 16:05:08 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/tuitiono/public_html/Star_Rating.php on line 15
+[22-Mar-2019 16:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/Star_Rating.php:30
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(254): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 30
+[22-Mar-2019 16:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tuitiono/public_html/Rating_config.php:8
+Stack trace:
+#0 /home/tuitiono/public_html/Star_Rating.php(15): include()
+#1 /home/tuitiono/public_html/tutor_post.php(254): include('/home/tuitiono/...')
+#2 {main}
+  thrown in /home/tuitiono/public_html/Rating_config.php on line 8
+[22-Mar-2019 16:08:07 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tuitiono/public_html/Rating_config.php on line 10
+[22-Mar-2019 16:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/Star_Rating.php:31
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(254): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 31
+[22-Mar-2019 16:09:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/Star_Rating.php:31
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(254): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 31
+[22-Mar-2019 16:10:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tuitiono/public_html/Star_Rating.php on line 31
+[22-Mar-2019 16:10:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/Star_Rating.php:32
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(254): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 32
+[22-Mar-2019 16:11:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tuitiono/public_html/Star_Rating.php on line 31
+[22-Mar-2019 16:11:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tuitiono/public_html/Star_Rating.php on line 32
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 38
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:00:22 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 38
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 38
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:02:53 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 38
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 38
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:05:49 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 38
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 41
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:10:11 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 41
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 41
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:12:56 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 41
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, float given in /home/tuitiono/public_html/Star_Rating.php on line 41
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 34
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 37
+[23-Mar-2019 06:13:48 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, float given in /home/tuitiono/public_html/Star_Rating.php on line 41
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:16:02 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:18:22 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tuitiono/public_html/ajaxRating.php on line 2
+[23-Mar-2019 06:18:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/tuitiono/public_html/ajaxRating.php on line 2
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 40
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:24:27 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 40
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 40
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 36
+[23-Mar-2019 06:27:54 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 40
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:32:06 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:01 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:15 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[23-Mar-2019 06:40:23 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:43:04 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 04:53:28 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 04:59:11 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/tuitiono/public_html/Star_Rating.php:40
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(209): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 40
+[24-Mar-2019 05:00:03 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:00:03 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:00:03 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:00:03 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:00:03 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:04:01 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:05:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:07:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:07:04 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:07:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/tuitiono/public_html/Star_Rating.php on line 35
+[24-Mar-2019 05:07:04 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, integer given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:13:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:13:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:13:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:13:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:13:43 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/tuitiono/public_html/Star_Rating.php on line 39
+[24-Mar-2019 05:28:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tuitiono/public_html/Star_Rating.php:31
+Stack trace:
+#0 /home/tuitiono/public_html/tutor_post.php(209): include()
+#1 {main}
+  thrown in /home/tuitiono/public_html/Star_Rating.php on line 31
+[24-Mar-2019 05:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 9
+[24-Mar-2019 05:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 05:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 07:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 07:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 07:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 07:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 07:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[24-Mar-2019 08:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 05:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 05:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 05:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 05:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 05:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 09:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 09:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 09:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 09:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[25-Mar-2019 09:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Mar-2019 13:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[01-Apr-2019 08:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[01-Apr-2019 08:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[01-Apr-2019 08:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[01-Apr-2019 08:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[01-Apr-2019 08:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[01-Apr-2019 08:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
+[27-Apr-2019 10:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/tuitiono/public_html/ajaxRating.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tuitiono/public_html/ajaxRating.php on line 11
